@@ -1,0 +1,11 @@
+{
+  "name": "personal-kintera",
+  "version": "0.0.1",
+  "description": "AWS Lambda package to return user's fundraising information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Perez",
+  "license": "ISC"
+}
